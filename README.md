@@ -1,4 +1,4 @@
-image-manipulation-in-c
+Image Processing in C
 =======================
 
 A C program that allows the user to input a PNG image through command line and select how they want to manipulate that image.
